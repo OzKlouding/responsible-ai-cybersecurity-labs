@@ -23,3 +23,67 @@ This project demonstrates **cloud security, AI governance, and compliance automa
 
 ## 📂 Repository Structure
 
+
+- **labs/** → Week-by-week projects.  
+- **capstone/** → End-to-end secure AI platform.  
+- **docs/** → Write-ups, compliance notes, incident playbook.  
+- **scripts/** → Python helpers for logs & automation.  
+- **.github/** → GitHub Actions workflows.  
+
+---
+
+## 📅 90-Day Lab Roadmap
+
+| Week | Focus | Deliverable |
+|------|-------|-------------|
+| 1 | Secure AI API Deployment | Private Endpoints + Key Vault |
+| 2 | API Gateway Security | Auth + Rate limits |
+| 3 | Logging & Monitoring | App Insights → CosmosDB |
+| 4 | Prompt Injection Defense | Azure AI Content Safety |
+| 5 | AI Firewall Middleware | Python proxy |
+| 6 | Secure Workflows | LangChain + LangGraph |
+| 7 | Policy-as-Code | Azure Policy + OPA |
+| 8 | Compliance Automation | Automated reports |
+| 9 | Audit Simulation | GDPR/PII report |
+| 10 | Incident Detection | AI downtime monitor |
+| 11 | IR Playbook | GenAI incident doc |
+| 12 | Capstone | Secure AI Platform |
+
+---
+
+## 🚀 Capstone Project
+**🔐 Secure & Compliant AI API Platform**  
+- AI Firewall middleware (Python)  
+- Policy-as-Code enforcement (Azure Policy + OPA)  
+- Automated compliance reporting  
+- Monitoring + Incident Response Playbook  
+
+📂 See: [`capstone/`](capstone/)  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python  
+- **Cloud:** Azure, AWS Bedrock  
+- **AI Tools:** Azure OpenAI, LangChain, LangGraph  
+- **Security:** IAM, APIM, Key Vault, AI Firewalls  
+- **Compliance:** NIST, ISO, GDPR, SOX, PCI, FAA  
+- **Monitoring:** Azure Monitor, App Insights  
+- **IaC:** Terraform, Bicep  
+- **CI/CD:** GitHub Actions  
+
+---
+
+## 📖 Documentation
+- 📑 [Roadmap](docs/00-roadmap.md)  
+- 🏗 [Architecture](docs/01-architecture.md)  
+- ⚖️ [Compliance Mapping](docs/02-compliance.md)  
+- 🚨 [Incident Playbook](docs/03-incident-playbook.md)  
+- 📊 [Reports](docs/reports/)  
+
+---
+
+## 📌 About
+Created by **Osman Sharif**  
+Cloud/DevOps Engineer → Cloud Security & Responsible AI Specialist  
+📍 Dallas, TX | 🌐 [LinkedIn](https://linkedin.com/in/osman-sharif)  
